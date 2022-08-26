@@ -1,1 +1,3 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NumanZaidan/ScriptForRoblox/main/Breaking%20Point/Breaking%20Point%20Script%201.txt", true))()
+wait(1)
+loadstring(game:HttpGet("https://github.com/NumanZaidan/ScriptForRoblox/blob/main/Breaking%20Point/Breaking%20Point%20Script%202.txt", true))()
